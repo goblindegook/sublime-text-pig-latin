@@ -4,7 +4,7 @@
  * Description: Pig Latin (Apache Pig) syntax highlighting for Sublime Text.
  * Author: Luís Rodrigues <luis.rodrigues@log.pt>
  * Version: 0.1
- * License: GNU GPL 3.0
+ * License: MIT License
  */
 
 {   "name": "Pig Latin",
